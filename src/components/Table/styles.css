@@ -1,0 +1,27 @@
+.row{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;align-self: center;
+    border-bottom: 1px dashed #7c7c7c;
+}
+
+.product{
+    display: flex;
+    padding: 10px;
+    width: 180px;
+}
+
+.qtd{
+    display: flex;
+    padding: 10px;
+    width: 80px;
+    text-align: center;
+}
+
+.price{
+    display: flex;
+    padding: 10px;
+    width:80px;
+    text-align: right;
+}

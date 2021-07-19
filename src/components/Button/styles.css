@@ -1,0 +1,17 @@
+button{
+    border: 2px solid rgb(228, 54, 54);
+    background: rgb(221, 216, 216);
+    color: rgb(228, 54, 54);
+    font-size: 14px;
+    border-radius: 20px;
+    padding: 8px 20px;
+    text-transform: uppercase;     
+    width: 150px;
+    margin-top: 20px;
+}
+
+button:hover{
+    border: 2px solid rgb(221, 216, 216);
+    background: rgb(228, 54, 54);
+    color: rgb(221, 216, 216);
+}
